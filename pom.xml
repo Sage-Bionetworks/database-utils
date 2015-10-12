@@ -41,11 +41,6 @@
 		</repository>
 	</repositories>
 	<dependencies>
-		<dependency>
-			<groupId>org.sagebionetworks</groupId>
-			<artifactId>aws-utilities</artifactId>
-			<version>1.0.8</version>
-		</dependency>
 		<!--  Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
